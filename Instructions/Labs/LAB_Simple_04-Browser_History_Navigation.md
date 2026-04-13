@@ -38,13 +38,13 @@ In this task, you will visit several websites to create a browsing history.
 
 1. In your browser address bar, type `https://www.example.com` and press **Enter**.
 
-2. Wait for the page to load, then navigate to `https://www.wikipedia.org` in the same tab.
+2. Wait for the page to load, then navigate to `https://www.example.org` in the same tab.
 
-3. Wait for Wikipedia to load, then navigate to `https://www.bbc.com`.
+3. Wait for this page to load, then navigate to `https://www.example.net`.
 
-4. Wait for the BBC website to load.
+4. Wait for the page to load.
 
-5. You have now visited three websites in order (Example → Wikipedia → BBC).
+5. You have now visited three different example websites in order (example.com → example.org → example.net).
 
 ## Task 2: Use the back button
 
@@ -54,15 +54,15 @@ In this task, you will use the back button to return to previous pages.
 
 2. Click the **back button** once.
 
-3. You should return to the **Wikipedia page** (the previous page you visited).
+3. You should return to the **example.org page** (the previous page you visited).
 
 4. Click the **back button** again.
 
-5. You should return to the **Example.com page**.
+5. You should return to the **example.com page**.
 
 6. Click the **back button** one more time.
 
-7. You should see attempting to go back to the first page you started from.
+7. You should see the browser attempt to go back further (may show error or stay on same page).
 
 **Keyboard shortcut:**
 - Press **Alt + Left Arrow** to go back quickly
@@ -79,7 +79,7 @@ In this task, you will use the forward button to return to pages you've backed a
 
 4. Continue clicking **forward** to return to websites you've been on.
 
-5. Click forward until you return to the **BBC website**.
+5. Click forward until you return to the **example.net website**.
 
 **Keyboard shortcut:**
 - Press **Alt + Right Arrow** to go forward quickly
@@ -96,7 +96,7 @@ In this task, you will view your complete browsing history.
 
 4. Find today's browsing session.
 
-5. You should see the websites you visited: Example.com, Wikipedia, BBC.
+5. You should see the websites you visited: example.com, example.org, example.net.
 
 6. You can click on any website in the history to navigate to it directly.
 

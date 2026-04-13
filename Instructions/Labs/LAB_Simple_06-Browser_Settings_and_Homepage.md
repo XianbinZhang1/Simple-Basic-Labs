@@ -63,9 +63,9 @@ In this task, you will check what your browser's homepage is set to.
    - "Download the current page" or
    - "Open a specific page or set of pages"
 
-3. Note what your current homepage is set to (It might be the search engine or a blank page).
+3. Note what your current homepage is set to.
 
-4. You are not required to change it, but you now know where to make changes if you want.
+4. You are not required to change it, but now you know where to make changes if needed.
 
 ## Task 3: Explore other browser settings
 

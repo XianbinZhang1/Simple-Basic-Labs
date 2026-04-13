@@ -13,7 +13,7 @@ This site contains beginner-friendly browser operation labs with step-by-step in
 | # | Lab | Duration | Topics |
 | --- | --- | --- | --- |
 | 01 | Open Browser and Navigate to Websites | 5 min | Browser basics, address bar, website loading |
-| 02 | Search on Google | 5 min | Search engines, search queries, search results |
+| 02 | Search on a Website | 5 min | Search engines, search queries, search results |
 | 03 | Open and Manage Multiple Browser Tabs | 5 min | Tab management, switching tabs, closing tabs |
 | 04 | Use Browser History and Navigation Buttons | 5 min | Back button, forward button, history panel |
 | 05 | Bookmark Your Favorite Websites | 5 min | Saving bookmarks, bookmark management, quick access |

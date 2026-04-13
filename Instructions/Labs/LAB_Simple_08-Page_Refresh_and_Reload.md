@@ -51,7 +51,7 @@ In this task, you will learn what refresh does.
 
 In this task, you will use the normal refresh function.
 
-1. Navigate to `https://www.news.bbc.co.uk/` or any news website.
+1. Navigate to `https://www.example.com` or any stable website.
 
 2. Wait for the page to load completely.
 
@@ -59,7 +59,7 @@ In this task, you will use the normal refresh function.
 
 4. Click the **refresh button**.
 
-5. The page will reload, and you might see updated news stories or information.
+5. The page will reload, and you should see the same content reload.
 
 6. Wait for the page to load again.
 

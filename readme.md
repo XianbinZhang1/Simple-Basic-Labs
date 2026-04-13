@@ -5,7 +5,7 @@ This repository contains 8 simple, beginner-friendly labs that teach fundamental
 ## Labs Included
 
 1. **Lab 01: Open Browser and Navigate to Websites** - Learn to open a browser and use the address bar to visit websites
-2. **Lab 02: Search on Google** - Learn how to use Google to search for information
+2. **Lab 02: Search on a Website** - Learn how to use a website search box to find information
 3. **Lab 03: Open and Manage Multiple Browser Tabs** - Work with multiple tabs and switch between them
 4. **Lab 04: Use Browser History and Navigation Buttons** - Learn to use back/forward buttons and browser history
 5. **Lab 05: Bookmark Your Favorite Websites** - Save websites for quick access later
@@ -21,7 +21,40 @@ All lab files are located in:
 
 ## Target Audience
 
-These labs are designed for beginners who want to learn basic web browser operations through simple, step-by-step instructions. No technical knowledge required.
+These labs are designed for:
+- UI drift detection testing (using tools like lab-drift-runner)
+- QA teams testing browser consistency  
+- Beginners learning web browser basics
+- Visual regression testing
+
+## ⚠️ Important: Optimized for Stable Testing
+
+These labs have been **specifically optimized for UI drift detection** by using only static, non-changing websites:
+
+✓ **Static websites used:**
+- example.com, example.org, example.net  (completely unchanging)
+- Wikipedia search structure (stable layout, searchable content)
+- W3.org documentation (stable, non-dynamic)
+- Browser settings pages (no dynamic content)
+
+✓ **Why this matters for lab-drift-runner:**
+- Same test run multiple times = same visual result
+- No false positives from content changing
+- Consistent page layouts
+- No ads or real-time updates causing flakiness
+- Reliable visual regression baseline
+
+❌ **NOT used (they cause inconsistent results):**
+- News sites (headlines/images change daily)
+- Social media feeds (content updates constantly)
+- Stock/weather dashboards (real-time data)
+- Ad-heavy sites (ad rotation causes layout changes)
+
+## Permission Popup Rule
+
+If a browser permission popup appears (Location, Notifications, Camera, or Microphone), always click **Block** or **Not now** during these labs.
+
+This keeps test runs consistent and prevents popups from blocking page steps.
 
 ## Estimated Completion Time
 
