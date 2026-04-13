@@ -1,0 +1,114 @@
+---
+lab:
+  title: 'Simple Lab 04: Use Browser History and Navigation Buttons'
+  module: Basic Browser Skills
+  description: Learn to navigate using back and forward buttons and browser history
+  duration: 5 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Browser History
+    - Back Button
+    - Forward Button
+    - Navigation Controls
+---
+
+# Simple Lab 04 - Use Browser History and Navigation Buttons
+
+## Lab introduction
+
+In this lab, you will learn how to use the browser's back and forward buttons to navigate through pages you have already visited. This is a quick way to revisit websites without typing URLs.
+
+## Estimated timing: 5 minutes
+
+## Lab scenario
+
+While browsing, you often want to go back to a previous page or return to a page after going back. The back and forward buttons make this easy.
+
+## Job skills
+
++ Task 1: Navigate to multiple websites
++ Task 2: Use the back button
++ Task 3: Use the forward button
++ Task 4: View browser history
+
+## Task 1: Navigate to multiple websites
+
+In this task, you will visit several websites to create a browsing history.
+
+1. In your browser address bar, type `https://www.example.com` and press **Enter**.
+
+2. Wait for the page to load, then navigate to `https://www.wikipedia.org` in the same tab.
+
+3. Wait for Wikipedia to load, then navigate to `https://www.bbc.com`.
+
+4. Wait for the BBC website to load.
+
+5. You have now visited three websites in order (Example → Wikipedia → BBC).
+
+## Task 2: Use the back button
+
+In this task, you will use the back button to return to previous pages.
+
+1. Look for the **back arrow button** (< symbol) at the top left of your browser.
+
+2. Click the **back button** once.
+
+3. You should return to the **Wikipedia page** (the previous page you visited).
+
+4. Click the **back button** again.
+
+5. You should return to the **Example.com page**.
+
+6. Click the **back button** one more time.
+
+7. You should see attempting to go back to the first page you started from.
+
+**Keyboard shortcut:**
+- Press **Alt + Left Arrow** to go back quickly
+
+## Task 3: Use the forward button
+
+In this task, you will use the forward button to return to pages you've backed away from.
+
+1. Look for the **forward arrow button** (> symbol) next to the back button at the top left.
+
+2. Click the **forward button** once.
+
+3. You should move forward one page in your history.
+
+4. Continue clicking **forward** to return to websites you've been on.
+
+5. Click forward until you return to the **BBC website**.
+
+**Keyboard shortcut:**
+- Press **Alt + Right Arrow** to go forward quickly
+
+## Task 4: View browser history
+
+In this task, you will view your complete browsing history.
+
+1. Press **Ctrl + H** on your keyboard.
+
+2. The **History panel** will open (usually on the left or in a new view).
+
+3. You will see a list of websites organized by date and time.
+
+4. Find today's browsing session.
+
+5. You should see the websites you visited: Example.com, Wikipedia, BBC.
+
+6. You can click on any website in the history to navigate to it directly.
+
+7. Close the history panel by clicking the **X** or pressing **Ctrl + H** again.
+
+## Summary
+
+In this lab, you have successfully:
+- Created a browsing history by visiting multiple websites
+- Used the back button to return to previous pages
+- Used the forward button to move through pages after going back
+- Opened and viewed the browser's history panel
+- Navigated to websites directly from history
+
+These navigation techniques make browsing more efficient when revisiting previously viewed content.
