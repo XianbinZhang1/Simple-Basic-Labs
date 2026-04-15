@@ -21,6 +21,14 @@ In this lab, you will learn how to bookmark websites so you can easily return to
 
 ## Estimated timing: 5 minutes
 
+## Important for Testing
+
+For consistent validation across runs:
+- Start with a browser window already open before beginning the lab.
+- Use one browser profile and one window.
+- Bookmark exactly the sites used in this lab (`example.com`, then `example.org`).
+- Confirm the bookmark entries by name before continuing.
+
 ## Lab scenario
 
 You have found some websites that you visit frequently. Instead of typing their URLs each time, you want to save them as bookmarks for quick access.
@@ -36,7 +44,7 @@ You have found some websites that you visit frequently. Instead of typing their 
 
 In this task, you will visit a website to bookmark.
 
-1. Open your browser and navigate to `https://www.example.com`.
+1. Use an open browser window and navigate to `https://www.example.com`.
 
 2. Wait for the page to load completely.
 
@@ -51,11 +59,13 @@ In this task, you will save this website as a bookmark.
 
 2. A bookmark dialog will appear.
 
-3. You can edit the name if desired (it will show "Wikipedia" or similar by default).
+3. You can edit the name if desired (it usually shows **Example Domain** by default for `example.com`).
 
 4. Choose where to save it (usually "Bookmarks" folder is fine).
 
 5. Click **Save** or **Done** button.
+
+Expected result: `example.com` is saved as a bookmark/favorite.
 
 **Alternative Method 2: Using the browser menu**
 1. Look for the **star icon** or **bookmark button** in the address bar (next to the address).
@@ -82,6 +92,8 @@ In this task, you will check your bookmarks.
 
 7. You should now see at least two bookmarked websites (example.com, example.org).
 
+Expected result: both `example.com` and `example.org` appear in your bookmarks/favorites list.
+
 ## Task 4: Access a bookmarked website
 
 In this task, you will use a bookmark to quickly access a website.
@@ -95,6 +107,8 @@ In this task, you will use a bookmark to quickly access a website.
 4. Return to the bookmarks menu and click on **example.org** (or whatever second website you bookmarked).
 
 5. You have now successfully accessed multiple websites using bookmarks.
+
+Expected result: each click on a bookmark opens the corresponding website without typing a URL.
 
 **Quick access from Bookmarks Bar:**
 - If bookmarks are visible in a bar at the top, you can simply click any bookmark name to navigate there instantly.

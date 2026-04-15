@@ -1,4 +1,8 @@
 remote_theme: MicrosoftLearning/Jekyll-Theme
+title: Simple Basic Labs
+description: Beginner-friendly browser labs published with GitHub Pages
+url: https://xianbinzhang1.github.io
+baseurl: /Simple-Basic-Labs
 exclude:
   - readme.md
   - .github/
@@ -15,5 +19,3 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-
-theme: jekyll-theme-slate

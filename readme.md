@@ -56,6 +56,12 @@ If a browser permission popup appears (Location, Notifications, Camera, or Micro
 
 This keeps test runs consistent and prevents popups from blocking page steps.
 
+## Lab Runner Note
+
+To keep `labrunner scan` stable, start each lab with a browser window already open.
+
+Avoid relying on **Start menu search** inside the lab steps, because some environments fall back to direct application launch when WinAppDriver is unavailable.
+
 ## Estimated Completion Time
 
 Each lab takes approximately 5 minutes, so the entire series can be completed in about 40 minutes total.

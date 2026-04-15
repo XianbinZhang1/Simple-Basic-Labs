@@ -20,27 +20,39 @@ In this lab, you will learn how to open a web browser and navigate to different 
 
 ## Estimated timing: 5 minutes
 
+## Important for Testing
+
+If a browser permission popup appears (for example, Location or Notifications), click **Block** or **Not now** so the popup does not interrupt the lab flow.
+
+For consistent validation across runs:
+- Start with a browser window already open before beginning the lab.
+- Use a single browser window and a single active tab unless the task explicitly asks for multiple tabs.
+- Complete each task in order and wait for each page to finish loading before moving on.
+- Treat the task as successful only when the visible page matches the expected site and page text.
+
 ## Lab scenario
 
 You want to visit your favorite websites to access information. You need to open a browser and navigate to specific URLs.
 
 ## Job skills
 
-+ Task 1: Open a web browser
++ Task 1: Prepare an open browser window
 + Task 2: Navigate to a website using the address bar
 + Task 3: Navigate to a different website
 
-## Task 1: Open a web browser
+## Task 1: Prepare an open browser window
 
-In this task, you will launch your default web browser.
+In this task, you will make sure a browser window is already open and ready to use.
 
-1. Click on the **Start menu** at the bottom left of your screen.
+1. If your browser is already open, bring that browser window to the front.
 
-2. Search for your browser (Microsoft Edge, Google Chrome, Firefox, or Safari).
+2. If no browser window is open yet, open your browser from a pinned taskbar icon, desktop shortcut, or other direct shortcut.
 
-3. Click on the browser icon to open it.
+3. Confirm the browser window is visible and active.
 
-4. The browser will open and display the home page or start page.
+4. If a startup page is shown, keep the same tab open.
+
+5. In the same tab, type `about:blank` in the address bar and press **Enter** to start from a clean page.
 
 ## Task 2: Navigate to a website using the address bar
 
@@ -56,6 +68,8 @@ In this task, you will navigate to a specific website.
 
 5. Observe the website content that appears on the screen.
 
+Expected result: the page title area shows **Example Domain** and the page contains a **Learn more** link.
+
 ## Task 3: Navigate to a different website
 
 In this task, you will navigate to another website.
@@ -64,18 +78,20 @@ In this task, you will navigate to another website.
 
 2. Clear the current URL (select all with **Ctrl + A** then delete, or triple-click to select all).
 
-3. Type `https://www.bbc.com` in the address bar.
+3. Type `https://www.example.org` in the address bar.
 
 4. Press **Enter** to navigate to this website.
 
 5. Wait for the page to load.
 
+Expected result: the page again shows the **Example Domain** layout on `example.org`.
+
 ## Summary
 
 In this lab, you have successfully:
-- Opened a web browser
+- Prepared an open browser window
 - Used the address bar to navigate to websites
-- Loaded two different websites (example.com and bbc.com)
+- Loaded two different websites (example.com and example.org)
 - Observed how websites load and display content
 
 These navigation skills are the foundation for all web browsing activities.

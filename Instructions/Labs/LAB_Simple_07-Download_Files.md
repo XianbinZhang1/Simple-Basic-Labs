@@ -20,6 +20,14 @@ In this lab, you will learn how to download files from websites. Downloading is 
 
 ## Estimated timing: 5 minutes
 
+## Important for Testing
+
+For consistent validation across runs:
+- Start with a browser window already open before beginning the lab.
+- Use one tab and one file source in this lab.
+- Use the exact file URL provided below.
+- Consider both outcomes valid: browser downloads directly, or browser opens a preview and you then click Download.
+
 ## Lab scenario
 
 You found a file on the internet that you want to save to your computer. You need to download it and then find it on your computer.
@@ -32,41 +40,32 @@ You found a file on the internet that you want to save to your computer. You nee
 
 ## Task 1: Navigate to a downloadable file
 
-In this task, you will go to a website that has files available for download.
+In this task, you will go directly to a stable sample file.
 
-1. Open your browser and navigate to `https://www.w3.org/`.
+1. Use an open browser window and navigate to:
+   `https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf`
 
 2. Wait for the website to load.
 
-3. Look for any link that says **"Download"** or contains a document/file icon.
+3. If the PDF opens in a browser viewer, keep this tab open.
 
-4. Alternatively, navigate to `https://github.com/` to find downloadable files.
+4. If the browser downloads automatically, continue to Task 3.
 
-5. You should find some downloadable content on these websites.
+Expected result: the `dummy.pdf` resource is reachable and ready to download.
 
 ## Task 2: Download a file
 
-In this task, you will initiate a file download.
+In this task, you will initiate the file download if it did not already download.
 
-1. Find a link to a file (look for PDF, text, or other file types).
+1. If you are viewing the PDF in-browser, click the **Download** button in the PDF toolbar.
 
-2. **Right-click on the download link**.
+2. If prompted with **Save** options, keep the default **Downloads** folder.
 
-3. A context menu will appear with options.
+3. Confirm the save action.
 
-4. Select **"Save link as..."** or **"Download linked file"**.
+4. Wait for the download to complete.
 
-5. **Alternative - Direct download:**
-   - Simply **left-click** on a download link
-   - The browser might automatically save the file to your Downloads folder
-   - Or a dialog might ask "Save or Open?" - click **Save**
-
-6. If a save dialog appears:
-   - The **Downloads** folder is usually selected by default
-   - You can change the filename if you want
-   - Click **Save** to download the file
-
-7. You should see a download progress indicator (usually at the bottom of the browser or in the Downloads panel).
+Expected result: `dummy.pdf` appears in browser downloads.
 
 ## Task 3: Locate the downloaded file
 
@@ -89,10 +88,12 @@ In this task, you will find the file you just downloaded.
 
 7. Observe that the file is now saved on your computer in the Downloads folder.
 
+Expected result: `dummy.pdf` is visible in the downloads list and in the Downloads folder.
+
 ## Summary
 
 In this lab, you have successfully:
-- Found downloadable content on websites
+- Accessed a stable downloadable file URL
 - Downloaded a file to your computer
 - Located the downloaded file in the browser's Downloads panel
 - Understood that files are saved to the Downloads folder by default

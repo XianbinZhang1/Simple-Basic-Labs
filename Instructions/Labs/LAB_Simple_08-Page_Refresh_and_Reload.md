@@ -21,6 +21,13 @@ In this lab, you will learn how to refresh and reload web pages. Refreshing is u
 
 ## Estimated timing: 5 minutes
 
+## Important for Testing
+
+For consistent validation across runs:
+- Use a stable page (`example.com`) for refresh steps.
+- Wait for page load completion before each refresh action.
+- Validate by browser behavior (reload occurs), not by major content changes on this static page.
+
 ## Lab scenario
 
 A website is showing outdated information or hasn't loaded properly. You need to refresh the page to get the latest content or fix loading issues.
@@ -63,6 +70,8 @@ In this task, you will use the normal refresh function.
 
 6. Wait for the page to load again.
 
+Expected result: the same page reloads successfully and remains usable.
+
 **Keyboard shortcut for normal refresh:**
 - Press **F5** on your keyboard
 - Or press **Ctrl + R**
@@ -87,6 +96,8 @@ In this task, you will learn about hard refresh (clearing the cache).
 
 5. You may notice it takes slightly longer to load as everything is downloaded fresh.
 
+Expected result: the page reload completes successfully after a hard refresh.
+
 ## Task 4: Stop page loading
 
 In this task, you will learn to stop a page that's taking too long to load.
@@ -105,6 +116,8 @@ In this task, you will learn to stop a page that's taking too long to load.
 5. The page will stop loading at that point, and you can still view the partially loaded content.
 
 6. You can then click the refresh button to try loading again if needed.
+
+Expected result: page loading can be interrupted, then resumed with Refresh.
 
 ## Optional: Clearing Browser Cache
 

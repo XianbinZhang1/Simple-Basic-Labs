@@ -12,14 +12,14 @@ This site contains beginner-friendly browser operation labs with step-by-step in
 
 | # | Lab | Duration | Topics |
 | --- | --- | --- | --- |
-| 01 | Open Browser and Navigate to Websites | 5 min | Browser basics, address bar, website loading |
-| 02 | Search on a Website | 5 min | Search engines, search queries, search results |
-| 03 | Open and Manage Multiple Browser Tabs | 5 min | Tab management, switching tabs, closing tabs |
-| 04 | Use Browser History and Navigation Buttons | 5 min | Back button, forward button, history panel |
-| 05 | Bookmark Your Favorite Websites | 5 min | Saving bookmarks, bookmark management, quick access |
-| 06 | Explore Browser Settings and Homepage | 5 min | Settings menu, homepage, search engine selection |
-| 07 | Download Files from the Internet | 5 min | File downloads, downloads folder, download management |
-| 08 | Refresh and Reload Pages | 5 min | Page refresh, hard refresh, cache clearing |
+| 01 | [Open Browser and Navigate to Websites](./Instructions/Labs/LAB_Simple_01-Open_Browser_and_Navigate.html) | 5 min | Browser basics, address bar, website loading |
+| 02 | [Search on a Website](./Instructions/Labs/LAB_Simple_02-Search_on_Google.html) | 5 min | Search engines, search queries, search results |
+| 03 | [Open and Manage Multiple Browser Tabs](./Instructions/Labs/LAB_Simple_03-Open_Multiple_Tabs.html) | 5 min | Tab management, switching tabs, closing tabs |
+| 04 | [Use Browser History and Navigation Buttons](./Instructions/Labs/LAB_Simple_04-Browser_History_Navigation.html) | 5 min | Back button, forward button, history panel |
+| 05 | [Bookmark Your Favorite Websites](./Instructions/Labs/LAB_Simple_05-Bookmarking_Websites.html) | 5 min | Saving bookmarks, bookmark management, quick access |
+| 06 | [Explore Browser Settings and Homepage](./Instructions/Labs/LAB_Simple_06-Browser_Settings_and_Homepage.html) | 5 min | Settings menu, homepage, search engine selection |
+| 07 | [Download Files from the Internet](./Instructions/Labs/LAB_Simple_07-Download_Files.html) | 5 min | File downloads, downloads folder, download management |
+| 08 | [Refresh and Reload Pages](./Instructions/Labs/LAB_Simple_08-Page_Refresh_and_Reload.html) | 5 min | Page refresh, hard refresh, cache clearing |
 
 ## How to Use These Labs
 

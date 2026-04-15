@@ -21,6 +21,13 @@ In this lab, you will learn how to use the browser's back and forward buttons to
 
 ## Estimated timing: 5 minutes
 
+## Important for Testing
+
+For consistent validation across runs:
+- Use one tab only for this lab.
+- Navigate using the exact URLs listed below, in order.
+- Wait for each page to finish loading before using Back or Forward.
+
 ## Lab scenario
 
 While browsing, you often want to go back to a previous page or return to a page after going back. The back and forward buttons make this easy.
@@ -62,7 +69,7 @@ In this task, you will use the back button to return to previous pages.
 
 6. Click the **back button** one more time.
 
-7. You should see the browser attempt to go back further (may show error or stay on same page).
+7. You should see the browser attempt to go back further (it may stay on the same page if no earlier history exists).
 
 **Keyboard shortcut:**
 - Press **Alt + Left Arrow** to go back quickly
@@ -80,6 +87,8 @@ In this task, you will use the forward button to return to pages you've backed a
 4. Continue clicking **forward** to return to websites you've been on.
 
 5. Click forward until you return to the **example.net website**.
+
+Expected result: the final page after forward navigation is `example.net`.
 
 **Keyboard shortcut:**
 - Press **Alt + Right Arrow** to go forward quickly
@@ -101,6 +110,8 @@ In this task, you will view your complete browsing history.
 6. You can click on any website in the history to navigate to it directly.
 
 7. Close the history panel by clicking the **X** or pressing **Ctrl + H** again.
+
+Expected result: history includes visits to `example.com`, `example.org`, and `example.net` from this session.
 
 ## Summary
 
