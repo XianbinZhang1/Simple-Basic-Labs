@@ -27,6 +27,7 @@ If a browser permission popup appears (for example, Location or Notifications), 
 For consistent validation across runs:
 - Use one tab for this lab.
 - Do not use browser autofill/history suggestions; type the URLs and query exactly as written.
+- Use the exact Special:Search URL and query shown below (it avoids exact-title redirects).
 - Validate success by matching the expected page state at the end of each task.
 
 ## Lab scenario
@@ -62,13 +63,16 @@ Expected result: the page shows **Example Domain** and a **Learn more** link.
 In this task, you will search for information.
 
 1. Click the address bar and navigate directly to:
-  `https://en.wikipedia.org/wiki/Special:Search?search=computer&ns0=1`
+  `https://en.wikipedia.org/w/index.php?search=history+of+computing+timeline&title=Special%3ASearch&ns0=1&fulltext=1`
 
 2. Wait for the page to load completely.
 
-3. Confirm you are on a **Special:Search** results page.
+3. Confirm you are on a **Special:Search** results page and the URL contains `title=Special%3ASearch`.
 
-Expected result: a search results page is displayed (not just a direct article page).
+4. If the page opens an article (`/wiki/...`) instead of search results, navigate again to:
+  `https://en.wikipedia.org/w/index.php?search=history+of+computing+timeline&title=Special%3ASearch&ns0=1&fulltext=1`
+
+Expected result: a search results page is displayed with multiple results (not a direct single-article landing page).
 
 ## Task 3: View search results
 
@@ -86,7 +90,7 @@ In this task, you will examine the search results.
 
 5. Go back to the search results by clicking the **Back button** in your browser (usually a left arrow at the top left).
 
-Expected result: after clicking Back, the browser returns to the same **Special:Search** results page.
+Expected result: after clicking Back, the browser returns to the same **Special:Search** results page URL.
 
 ## Summary
 

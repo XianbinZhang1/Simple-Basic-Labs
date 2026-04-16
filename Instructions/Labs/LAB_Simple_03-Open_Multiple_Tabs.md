@@ -24,11 +24,6 @@ In this lab, you will learn how to open multiple browser tabs and switch between
 
 If a browser permission popup appears (for example, Location or Notifications), click **Block** or **Not now** so the popup does not interrupt the lab flow.
 
-For consistent validation across runs:
-- Keep all actions in one browser window.
-- Use exactly three tabs in this lab.
-- Wait for each page title/content to appear before switching tabs.
-
 ## Lab scenario
 
 You want to keep multiple websites open while browsing. You need to open new tabs to view different websites without losing your current page.
@@ -57,7 +52,7 @@ In this task, you will open a new browser tab.
 
 In this task, you will navigate to different websites in each tab.
 
-1. In the **first tab**, click the address bar, type `https://www.example.com`, and press **Enter**.
+1. In the **first tab**: Make sure you are on `https://www.example.com` (or navigate there).
 
 2. In the **new (second) tab** that is currently active:
    - Click on the address bar
@@ -72,8 +67,6 @@ In this task, you will navigate to different websites in each tab.
 
 5. Now you have three tabs open with different websites.
 
-Expected result: tab 1 is `example.com`, tab 2 is `wikipedia.org`, and tab 3 is `example.org`.
-
 ## Task 3: Switch between tabs
 
 In this task, you will switch between the open tabs.
@@ -85,8 +78,6 @@ In this task, you will switch between the open tabs.
 3. Click on the **third tab** (example.org) to view it.
 
 4. Click back on the **first tab** to return to Example.com.
-
-Expected result: each tab switch shows the correct site that was loaded in that tab.
 
 **Alternative methods:**
 - Press **Ctrl + Tab** to switch to the next tab

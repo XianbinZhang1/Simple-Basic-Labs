@@ -24,9 +24,10 @@ In this lab, you will learn how to use the browser's back and forward buttons to
 ## Important for Testing
 
 For consistent validation across runs:
-- Use one tab only for this lab.
-- Navigate using the exact URLs listed below, in order.
-- Wait for each page to finish loading before using Back or Forward.
+- Use one tab for this lab.
+- Start Task 1 in a tab that is already on `about:blank` (or open a new blank tab).
+- Use the exact three URLs in order: `example.com` -> `example.org` -> `example.net`.
+- In Task 2, note whether your third back click reaches `about:blank`.
 
 ## Lab scenario
 
@@ -43,15 +44,17 @@ While browsing, you often want to go back to a previous page or return to a page
 
 In this task, you will visit several websites to create a browsing history.
 
-1. In your browser address bar, type `https://www.example.com` and press **Enter**.
+1. Click the address bar, type `about:blank`, and press **Enter**.
 
-2. Wait for the page to load, then navigate to `https://www.example.org` in the same tab.
+2. In your browser address bar, type `https://www.example.com` and press **Enter**.
 
-3. Wait for this page to load, then navigate to `https://www.example.net`.
+3. Wait for the page to load, then navigate to `https://www.example.org` in the same tab.
 
-4. Wait for the page to load.
+4. Wait for this page to load, then navigate to `https://www.example.net`.
 
-5. You have now visited three different example websites in order (example.com → example.org → example.net).
+5. Wait for the page to load.
+
+6. You have now visited three different example websites in order (example.com -> example.org -> example.net).
 
 ## Task 2: Use the back button
 
@@ -69,7 +72,9 @@ In this task, you will use the back button to return to previous pages.
 
 6. Click the **back button** one more time.
 
-7. You should see the browser attempt to go back further (it may stay on the same page if no earlier history exists).
+7. If your tab started from `about:blank`, you should now be on `about:blank`.
+
+8. If your tab did not start from `about:blank`, the browser may stay on the same page or show that it cannot go back further.
 
 **Keyboard shortcut:**
 - Press **Alt + Left Arrow** to go back quickly
@@ -86,9 +91,9 @@ In this task, you will use the forward button to return to pages you've backed a
 
 4. Continue clicking **forward** to return to websites you've been on.
 
-5. Click forward until you return to the **example.net website**.
+5. If Task 2 ended on `about:blank`, click **forward** three times total to reach `example.net` (`about:blank` -> `example.com` -> `example.org` -> `example.net`).
 
-Expected result: the final page after forward navigation is `example.net`.
+6. If Task 2 did not end on `about:blank`, click **forward** until you return to the **example.net website**.
 
 **Keyboard shortcut:**
 - Press **Alt + Right Arrow** to go forward quickly
@@ -110,8 +115,6 @@ In this task, you will view your complete browsing history.
 6. You can click on any website in the history to navigate to it directly.
 
 7. Close the history panel by clicking the **X** or pressing **Ctrl + H** again.
-
-Expected result: history includes visits to `example.com`, `example.org`, and `example.net` from this session.
 
 ## Summary
 

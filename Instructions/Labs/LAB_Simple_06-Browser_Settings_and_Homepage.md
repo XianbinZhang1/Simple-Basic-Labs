@@ -21,13 +21,6 @@ In this lab, you will learn how to access browser settings to customize your bro
 
 ## Estimated timing: 5 minutes
 
-## Important for Testing
-
-For consistent validation across runs:
-- Keep this lab read-only (do not permanently change settings unless explicitly required).
-- Validate by locating each settings section, not by exact UI wording.
-- Browser wording may differ; section purpose must still match.
-
 ## Lab scenario
 
 You want to customize your browser so it opens with your preferred homepage and uses your favorite search engine.
@@ -67,14 +60,12 @@ In this task, you will check what your browser's homepage is set to.
 1. In the Settings page, look for **Startup** or **Home** section.
 
 2. You should see options like:
-   - "Open the New Tab page" or
+   - "Download the current page" or
    - "Open a specific page or set of pages"
 
 3. Note what your current homepage is set to.
 
 4. You are not required to change it, but now you know where to make changes if needed.
-
-Expected result: you can identify where homepage/startup behavior is configured.
 
 ## Task 3: Explore other browser settings
 
@@ -95,8 +86,6 @@ In this task, you will look at other settings categories.
 
 5. Return to the main settings by clicking **Settings** or back arrow.
 
-Expected result: you can locate Search engine settings and identify the current default provider.
-
 ## Task 4: Understand browser preferences
 
 In this task, you will recognize important preference areas.
@@ -112,8 +101,6 @@ In this task, you will recognize important preference areas.
 5. Check **Notifications** to control pop-up permissions.
 
 6. You don't need to change anything - just familiarize yourself with where settings are located.
-
-Expected result: you can locate privacy, downloads, and notifications settings sections.
 
 ## Summary
 
