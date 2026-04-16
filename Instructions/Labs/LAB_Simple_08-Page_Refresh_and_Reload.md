@@ -78,10 +78,10 @@ In this task, you will learn about hard refresh (clearing the cache).
    - Updates aren't appearing even after normal refresh
    - You want a completely fresh version
 
-3. To perform a **hard refresh**, hold **Ctrl** and press **F5**.
+3. To perform a **hard refresh** in Microsoft Edge, press **Ctrl + Shift + R**.
 
 **Alternative method:**
-- Press **Ctrl + Shift + R** (in some browsers)
+- Hold **Ctrl** and press **F5** (works in some browsers)
 
 4. The page will reload completely without using any cached data.
 

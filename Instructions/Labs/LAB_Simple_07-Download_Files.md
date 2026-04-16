@@ -26,6 +26,7 @@ For consistent validation across runs:
 - Start with a browser window already open before beginning the lab.
 - Use one tab and one file source in this lab.
 - Use the exact file URL provided below.
+- In Microsoft Edge, the file may open in the built-in PDF viewer or download directly depending on Edge settings.
 - Consider both outcomes valid: browser downloads directly, or browser opens a preview and you then click Download.
 
 ## Lab scenario
@@ -73,9 +74,9 @@ In this task, you will find the file you just downloaded.
 
 1. Look at the **bottom of your browser window** - there should be a downloads indicator or panel.
 
-2. Click on the **Downloads button** (usually a down arrow icon) to view downloaded files.
+2. In Microsoft Edge, click on the **Downloads button** (down arrow icon at the top right) to view downloaded files.
 
-3. You should see the file you just downloaded listed there.
+3. You should see `dummy.pdf` listed there.
 
 4. Note the filename and size.
 

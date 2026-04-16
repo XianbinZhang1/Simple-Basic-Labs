@@ -26,8 +26,9 @@ In this lab, you will learn how to bookmark websites so you can easily return to
 For consistent validation across runs:
 - Start with a browser window already open before beginning the lab.
 - Use one browser profile and one window.
-- Bookmark exactly the sites used in this lab (`example.com`, then `example.org`).
-- Confirm the bookmark entries by name before continuing.
+- In Microsoft Edge, "Bookmarks" are called "Favorites".
+- Favorite exactly the sites used in this lab (`example.com`, then `example.org`).
+- Confirm the entries by name before continuing.
 
 ## Lab scenario
 
@@ -52,73 +53,73 @@ In this task, you will visit a website to bookmark.
 
 ## Task 2: Bookmark a website
 
-In this task, you will save this website as a bookmark.
+In this task, you will save this website as a favorite.
 
 **Method 1: Using the keyboard shortcut**
 1. Press **Ctrl + D** on your keyboard.
 
-2. A bookmark dialog will appear.
+2. In Microsoft Edge, a **Favorite added** dialog appears.
 
 3. You can edit the name if desired (it usually shows **Example Domain** by default for `example.com`).
 
-4. Choose where to save it (usually "Bookmarks" folder is fine).
+4. Choose where to save it (the default is often **Favorites bar**).
 
-5. Click **Save** or **Done** button.
+5. Click **Done**.
 
-Expected result: `example.com` is saved as a bookmark/favorite.
+Expected result: `example.com` is saved as a favorite.
 
 **Alternative Method 2: Using the browser menu**
-1. Look for the **star icon** or **bookmark button** in the address bar (next to the address).
+1. Look for the **star icon** in the address bar (next to the address).
 
-2. Click the **star icon** to bookmark the page.
+2. Click the **star icon** to add the page to Favorites.
 
-3. A confirmation will appear, showing the bookmark has been saved.
+3. A confirmation appears, showing the favorite has been saved.
 
 ## Task 3: View and organize bookmarks
 
-In this task, you will check your bookmarks.
+In this task, you will check your favorites.
 
-1. Press **Ctrl + Shift + B** or find the Bookmarks menu in your browser.
+1. Press **Ctrl + Shift + O** to open the **Favorites** panel in Microsoft Edge.
 
-2. The **Bookmarks bar** will be visible (or a bookmarks menu will open).
+2. You should see "example.com" in your recent favorites list.
 
-3. You should see "example.com" in your recent bookmarks list.
+3. Navigate to another website (e.g., `https://www.example.org`).
 
-4. Navigate to another website (e.g., `https://www.example.org`).
+4. Favorite this website as well using **Ctrl + D**.
 
-5. Bookmark this website as well using **Ctrl + D**.
+5. Press **Ctrl + Shift + O** again (or keep the Favorites panel open) to view the list.
 
-6. Press **Ctrl + B** or access the **Bookmarks menu** again.
+6. You should now see at least two favorited websites (example.com, example.org).
 
-7. You should now see at least two bookmarked websites (example.com, example.org).
+7. Optional: press **Ctrl + Shift + B** to show or hide the **Favorites bar**.
 
-Expected result: both `example.com` and `example.org` appear in your bookmarks/favorites list.
+Expected result: both `example.com` and `example.org` appear in your favorites list.
 
-## Task 4: Access a bookmarked website
+## Task 4: Access a favorited website
 
-In this task, you will use a bookmark to quickly access a website.
+In this task, you will use a favorite to quickly access a website.
 
-1. Click on **Bookmarks** in your browser menu (or press **Ctrl + B**).
+1. Open the **Favorites** panel (press **Ctrl + Shift + O**).
 
-2. In the bookmarks list, click on **example.com**.
+2. In the favorites list, click **example.com**.
 
 3. Your browser will navigate directly to example.com without you having to type the URL.
 
-4. Return to the bookmarks menu and click on **example.org** (or whatever second website you bookmarked).
+4. Return to Favorites and click **example.org** (or whatever second website you favorited).
 
-5. You have now successfully accessed multiple websites using bookmarks.
+5. You have now successfully accessed multiple websites using Favorites.
 
-Expected result: each click on a bookmark opens the corresponding website without typing a URL.
+Expected result: each click on a favorite opens the corresponding website without typing a URL.
 
-**Quick access from Bookmarks Bar:**
-- If bookmarks are visible in a bar at the top, you can simply click any bookmark name to navigate there instantly.
+**Quick access from Favorites bar:**
+- If favorites are visible in a bar at the top, you can click any favorite name to navigate there instantly.
 
 ## Summary
 
 In this lab, you have successfully:
-- Bookmarked websites for quick access
-- Accessed the bookmarks menu
-- Navigated to websites using bookmarks
-- Created a personal collection of frequently-used websites
+- Added websites to Favorites for quick access
+- Opened the Favorites panel
+- Navigated to websites using Favorites
+- Created a personal collection of frequently used websites
 
-Bookmarks save you time and make browsing more efficient by providing instant access to your favorite sites.
+Favorites save you time and make browsing more efficient by providing instant access to your frequently visited sites.

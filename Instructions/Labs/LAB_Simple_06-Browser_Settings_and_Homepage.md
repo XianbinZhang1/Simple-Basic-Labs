@@ -57,13 +57,14 @@ In this task, you will access the settings menu.
 
 In this task, you will check what your browser's homepage is set to.
 
-1. In the Settings page, look for **Startup** or **Home** section.
+1. In the Settings page, look for **Startup** or **Home** section (usually on the left sidebar).
 
-2. You should see options like:
-   - "Download the current page" or
-   - "Open a specific page or set of pages"
+2. In Microsoft Edge, you will see options like:
+   - "New tab page" (opens a default new tab)
+   - "Previous pages" (reopens tabs from last session)
+   - "A specific page or pages" (lets you set a custom URL)
 
-3. Note what your current homepage is set to.
+3. Note what your current homepage setting is configured to.
 
 4. You are not required to change it, but now you know where to make changes if needed.
 
@@ -72,11 +73,11 @@ In this task, you will check what your browser's homepage is set to.
 In this task, you will look at other settings categories.
 
 1. Look through the left sidebar for other settings categories like:
-   - **Privacy and security** - Controls cookies and data
+   - **Privacy and security** - Controls cookies, cache, and data (in Edge: includes Tracking prevention)
    - **Search engine** - Choose your default search engine
    - **Languages** - Change browser language
    - **Accessibility** - Font size, contrast options
-   - **Appearance** - Theme colors and layout
+   - **Appearance** - Theme colors and layout (in Edge: Dark/Light mode)
 
 2. Click on **Search engine** (or similar option).
 
@@ -94,11 +95,11 @@ In this task, you will recognize important preference areas.
 
 2. Understand what cookies and cache do (they store website data for faster loading).
 
-3. Note the option to **clear browsing data** - useful for privacy.
+3. Note the option to **clear browsing data** (in Edge: found under Privacy, search & services) - useful for privacy.
 
-4. Look for **Downloads** settings to see where files are saved.
+4. Look for **Downloads** settings to see where files are saved (in Edge: found under Downloads in left sidebar).
 
-5. Check **Notifications** to control pop-up permissions.
+5. Check **Notifications and permissions** to control pop-up permissions.
 
 6. You don't need to change anything - just familiarize yourself with where settings are located.
 
