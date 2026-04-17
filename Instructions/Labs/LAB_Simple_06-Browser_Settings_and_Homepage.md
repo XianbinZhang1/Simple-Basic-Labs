@@ -21,6 +21,15 @@ In this lab, you will learn how to access browser settings to customize your bro
 
 ## Estimated timing: 5 minutes
 
+## Important for Testing
+
+For consistent validation across different computers and user states:
+- This lab is written for Microsoft Edge on Windows.
+- UI labels can vary slightly by Edge version, policy, region/language, and whether the browser profile is signed in.
+- If the left sidebar is collapsed, click the hamburger menu (≡) to expand it before looking for navigation items.
+- If a label is different, use the closest equivalent path described in each task.
+- You only need to locate settings; you do not need to change organization-managed settings.
+
 ## Lab scenario
 
 You want to customize your browser so it opens with your preferred homepage and uses your favorite search engine.
@@ -57,51 +66,61 @@ In this task, you will access the settings menu.
 
 In this task, you will check what your browser's homepage is set to.
 
-1. In the Settings page, look for **Startup** or **Home** section (usually on the left sidebar).
+1. In the Settings page, if the sidebar is collapsed, click the hamburger menu (≡) to expand it.
 
-2. In Microsoft Edge, you will see options like:
-   - "New tab page" (opens a default new tab)
-   - "Previous pages" (reopens tabs from last session)
-   - "A specific page or pages" (lets you set a custom URL)
+2. Look for **Start, home, and new tabs** (or equivalent **Startup/Home** section) in the left navigation.
 
-3. Note what your current homepage setting is configured to.
+3. In Microsoft Edge, you may see options like:
+   - "Open the new tab page"
+   - "Open tabs from the previous session"
+   - "Open these pages" or "Open custom sites" (exact wording may vary)
 
-4. You are not required to change it, but now you know where to make changes if needed.
+4. Note what your current homepage/startup setting is configured to.
+
+5. You are not required to change it, but now you know where to make changes if needed.
 
 ## Task 3: Explore other browser settings
 
 In this task, you will look at other settings categories.
 
 1. Look through the left sidebar for other settings categories like:
-   - **Privacy and security** - Controls cookies, cache, and data (in Edge: includes Tracking prevention)
-   - **Search engine** - Choose your default search engine
+   - **Privacy, search, and services** - Controls cookies, cache, tracking prevention, and data options
    - **Languages** - Change browser language
    - **Accessibility** - Font size, contrast options
-   - **Appearance** - Theme colors and layout (in Edge: Dark/Light mode)
+   - **Appearance** - Theme colors and layout
 
-2. Click on **Search engine** (or similar option).
+2. In Edge, navigate to search engine settings using this path:
+   - **Privacy, search, and services**
+   - **Search and connected experiences**
+   - **Address bar and search**
 
-3. You will see the current default search engine (usually Google, Bing, or similar).
+3. If your Edge version shows different labels, use the nearest equivalent path that leads to address bar search provider settings.
 
-4. You can see a list of available search engines.
+4. Open the search engine dropdown to view the current default search engine (usually Google, Bing, or similar).
 
-5. Return to the main settings by clicking **Settings** or back arrow.
+5. Review the list of available search engines.
+
+6. Return to the main settings page by using breadcrumb/back multiple times as needed, or reopen the main Settings category from the sidebar.
 
 ## Task 4: Understand browser preferences
 
 In this task, you will recognize important preference areas.
 
-1. Look for a **Privacy and security** section.
+1. Open **Privacy, search, and services** (or equivalent privacy section).
 
 2. Understand what cookies and cache do (they store website data for faster loading).
 
-3. Note the option to **clear browsing data** (in Edge: found under Privacy, search & services) - useful for privacy.
+3. Note the option to **Clear browsing data** - useful for privacy.
 
-4. Look for **Downloads** settings to see where files are saved (in Edge: found under Downloads in left sidebar).
+4. In the clear data experience, observe items such as cookies and cached images/files.
 
-5. Check **Notifications and permissions** to control pop-up permissions.
+5. Also locate the **Cookies** subsection on the parent privacy page (if shown separately by your version).
 
-6. You don't need to change anything - just familiarize yourself with where settings are located.
+6. Look for **Downloads** settings to see where files are saved.
+
+7. For permissions, navigate to **Site permissions** -> **All permissions** (or equivalent), then locate **Notifications** and **Pop-ups and redirects**.
+
+8. You don't need to change anything - just familiarize yourself with where settings are located.
 
 ## Summary
 
