@@ -68,12 +68,12 @@ In this task, you will check what your browser's homepage is set to.
 
 1. In the Settings page, if the sidebar is collapsed, click the hamburger menu (≡) to expand it.
 
-2. Look for **Start, home, and new tabs** (or equivalent **Startup/Home** section) in the left navigation.
+2. Look for **Start, home, and new tab page** (or equivalent **Startup/Home** section) in the left navigation.
 
 3. In Microsoft Edge, you may see options like:
    - "Open the new tab page"
    - "Open tabs from the previous session"
-   - "Open these pages" or "Open custom sites" (exact wording may vary)
+   - "Open custom sites" (or similar wording in other versions)
 
 4. Note what your current homepage/startup setting is configured to.
 
